@@ -1,0 +1,22 @@
+# 🧑‍💻 Dashboard UI Design
+
+This is a responsive dashboard layout built using **HTML** and **Tailwind CSS**. It includes a sidebar, a top navigation bar, and a main content area, all styled using Tailwind's utility-first approach.
+
+---
+
+## 🚀 Features
+
+- 📐 Responsive layout using Flexbox
+- 🎨 Clean, modern design with Tailwind CSS
+- 🧭 Sidebar navigation
+- 🔝 Top navbar
+- 📦 Organized structure for future expansion
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML** – for markup structure  
+- **Tailwind CSS** – for styling using utility classes  
+
+---
